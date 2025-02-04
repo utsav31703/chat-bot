@@ -2,7 +2,7 @@
 # 💬 AI Chatbot  
 
 An interactive AI-powered chatbot using **Google's Gemini API**, allowing users to send messages, upload files, and receive intelligent responses in real-time.  
-
+#You can use this bot by clicking on https://chat-bot-uk.netlify.app/
 ## 📌 Features  
 - **🤖 AI-Powered Responses** – Uses Google's Gemini API to generate meaningful replies  
 - **📂 File Upload Support** – Users can attach and preview images in chat  
